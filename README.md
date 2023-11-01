@@ -11,25 +11,45 @@ The purpose of this EDA is to gain insights into the Zomato dataset, understand 
 The dataset contains the following columns:
 
 Restaurant ID
+
 Restaurant Name
+
 Country Code
+
 City
+
 Address
+
 Locality
+
 Locality Verbose
+
 Longitude
+
 Latitude
+
 Cuisines
+
 Average Cost for Two
+
 Currency
+
 Has Table Booking
+
 Has Online Delivery
+
 Is Delivering Now
+
 Switch to Order Menu
+
 Price Range
+
 Aggregate Rating
+
 Rating Color
+
 Rating Text
+
 Votes
 
 # EDA Process
